@@ -15,6 +15,7 @@ To explore the NCR Uber bookings dataset and find patterns in booking status, ca
 ```
 ├── Uber_Booking_Analysis.ipynb
 ├── Uber report data.csv
+|—— Uber Analysis Report.pbix
 ├── Uber Dashboard image.png
 └── README.md
 ```
